@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usmankhalid87
 - 👀 I’m interested in all the new technologies
-- 🌱 I’m currently learning Angular 11, .NET Core 3, Azure DevOps
+- 🌱 Senior C#/.NET/NodeJS Full Stack Software Engineer with a passion for Microservice architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
